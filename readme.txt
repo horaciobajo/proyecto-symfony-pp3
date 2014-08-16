@@ -8,9 +8,7 @@ git status
 git push origin develop
 git pull origin ......
 git branch -a
-
 git pull origin develop
-git add /archivo1 /archivo2
+git add archivo1 archivo2
 git commit -m "cambio header"
 git push origin develop
-git branch -a
